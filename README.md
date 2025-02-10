@@ -1,1 +1,1 @@
-# SCLLMs
+# SC-LLMs
